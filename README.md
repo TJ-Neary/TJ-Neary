@@ -1,35 +1,34 @@
 ## TJ Neary
 
-Building at the intersection of people, strategy, adoption, and technology. I transform strategic intentions and ambiguity into working systems—specializing in local-first AI, RAG pipelines, and privacy-preserving tooling.
+**AI transformation leader** bridging defense operations, people strategy, and hands-on engineering. I transform strategic ambiguity into working systems — specializing in local-first AI, RAG pipelines, and privacy-preserving architecture on Apple Silicon.
 
-### Current Work
+---
 
-**[AI_Eval](https://github.com/TJ-Neary/AI_Eval)** — LLM evaluation framework with hardware-aware benchmarking. Provides actionable model selection guidance based on real-world performance rather than leaderboard rankings. Supports local inference (Ollama) and cloud APIs with comprehensive scoring across code generation, document analysis, and structured output.
+### Open Source
 
-**[CoreRag](https://github.com/TJ-Neary/CoreRag)** — Local-first knowledge engine with semantic search, GraphRAG, and Claude Desktop integration via MCP. Features hybrid search (vector + BM25), cross-encoder reranking, multi-format document ingestion, and privacy-preserving PII detection.
+**[CoreRag](https://github.com/TJ-Neary/CoreRag)** — Local-first knowledge engine with semantic search, GraphRAG, and Claude Desktop integration via MCP. Hybrid search (vector + BM25), cross-encoder reranking, multi-format document ingestion, and three-layer PII detection. 392 tests. Python 3.12+ / LanceDB / FastAPI / Sentence Transformers.
 
-**[TommyTalker](https://github.com/TJ-Neary/TommyTalker)** — Privacy-first macOS voice assistant optimized for Apple Silicon. Provides conversational AI capabilities without cloud dependencies.
+**[AI_Eval](https://github.com/TJ-Neary/AI_Eval)** — LLM evaluation framework with hardware-aware benchmarking on Apple Silicon (M4 Max). Actionable model selection based on real-world performance across code generation, document analysis, and structured output. Supports local inference (Ollama) and cloud APIs. 525 tests. Python 3.12+ / MLX / Ollama.
+
+**[TommyTalker](https://github.com/TJ-Neary/TommyTalker)** — Privacy-first macOS voice intelligence suite. Push-to-talk with app-aware text formatting, session recording, and word replacement — no cloud dependencies. Optimized for Apple Silicon MPS acceleration. 95 tests. Python 3.12+ / Whisper / Metal.
 
 ### Technical Focus
 
-**Core Technologies:** Python 3.12+ • Ollama • LanceDB • FastAPI • MLX • Sentence Transformers
-
-**Specializations:** Local-first AI architecture • RAG system design • Apple Silicon optimization • MCP server development • Vector databases • Semantic search
-
-**Engineering Practices:** Test-driven development • Type safety (mypy) • Comprehensive documentation • Security-first design • Hardware-aware optimization
+| Domain | Technologies |
+|--------|-------------|
+| **AI/ML** | Ollama, MLX, Sentence Transformers, Whisper, LangChain |
+| **Data** | LanceDB, SQLite, ChromaDB, DuckDB, GraphRAG |
+| **Infrastructure** | FastAPI, MCP servers, GitHub Actions, pytest |
+| **Platform** | macOS, Apple Silicon (M4 Max), Metal, MPS |
+| **Practices** | TDD (Red-Green-Refactor), type safety (mypy), security-first, C4 architecture |
 
 ### Background
 
-After 25 years of military service focusing on organizational transformation, learning & development, and workforce strategy, I now build systems that bridge people strategy and technical implementation. My work combines systematic operational thinking with hands-on development—an approach that applies military planning discipline to AI system architecture.
+25 years Air Force service (E-9 Chief Master Sergeant) leading organizational transformation, workforce strategy, and learning & development at scale. Now applying that systematic operational discipline to AI system architecture — translating complex requirements into tested, documented, production-grade implementations.
 
-**Education & Credentials:** MBA • PMP • PMI-ACP • SHRM-SCP • SAFe 6 Scrum Master
-
-### Approach
-
-I build systems that solve categories rather than instances. Every project follows the same discipline: structured planning, comprehensive testing, clear documentation, and execution-focused delivery. Whether designing organizational change frameworks or RAG pipelines, the methodology remains consistent—translate ambiguity into actionable architecture, then implement with rigor.
+**Credentials:** MBA | PMP | PMI-ACP | SHRM-SCP | SAFe 6 Scrum Master | TS-SCI (inactive)
 
 ---
 
 **Location:** Colorado Springs, CO
 **Connect:** [LinkedIn](https://linkedin.com/in/tjneary)
-**Open to:** Collaboration on AI tooling, RAG systems, and developer productivity projects
