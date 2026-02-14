@@ -4,6 +4,10 @@
 
 ---
 
+### Showcase
+
+**[HQ-Command-Center](https://github.com/TJ-Neary/HQ-Command-Center)** — AI-augmented project command center coordinating 11 software projects across two AI agents (Anthropic Claude + Google Gemini). Multi-agent orchestration, automated standards distribution, cross-project communication, drift detection, strategic advisory board, and security pipeline. Python 3.12+ / Jinja2 / YAML / Ollama.
+
 ### Open Source
 
 **[CoreRag](https://github.com/TJ-Neary/CoreRag)** — Local-first knowledge engine with semantic search, GraphRAG, and Claude Desktop integration via MCP. Hybrid search (vector + BM25), cross-encoder reranking, multi-format document ingestion, and three-layer PII detection. 392 tests. Python 3.12+ / LanceDB / FastAPI / Sentence Transformers.
