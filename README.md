@@ -12,6 +12,8 @@
 
 **[TommyTalker-Pro](https://github.com/TJ-Neary/TommyTalker-Pro)** — Enhanced voice-to-text for macOS extending the open-source TommyTalker with multi-mode AI processing (Claude/GPT/Groq), transcription history, speaker diarization, auto-activation rules, and a 5-panel sidebar dashboard. 356 tests across 9 development phases. Python 3.12+ / PyQt6 / mlx-whisper / Anthropic SDK.
 
+**[VA-Assistant](https://github.com/TJ-Neary/VA-Assistant)** — AI-powered VA claims analysis that discovers claimable conditions from medical records, identifies rating errors in VA decisions, and generates evidence-backed appeal packages. 9-phase condition discovery pipeline, dual-persona adversarial analysis, hybrid RAG search, 1,324 tests. Python 3.12+ / FastAPI / Qdrant / React / Anthropic Claude.
+
 ### Open Source
 
 **[CoreRag](https://github.com/TJ-Neary/CoreRag)** — Local-first knowledge engine with semantic search, GraphRAG, and Claude Desktop integration via MCP. Hybrid search (vector + BM25), cross-encoder reranking, multi-format document ingestion, and three-layer PII detection. 392 tests. Python 3.12+ / LanceDB / FastAPI / Sentence Transformers.
