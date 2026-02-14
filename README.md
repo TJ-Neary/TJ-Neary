@@ -36,7 +36,7 @@
 
 25 years Air Force service (E-9 Chief Master Sergeant) leading organizational transformation, workforce strategy, and learning & development at scale. Now applying that systematic operational discipline to AI system architecture — translating complex requirements into tested, documented, production-grade implementations.
 
-**Credentials:** MBA | PMP | PMI-ACP | SHRM-SCP | SAFe 6 Scrum Master | TS-SCI (inactive)
+**Credentials:** MBA | PMP | PMI-ACP | SHRM-SCP | SAFe 6 Scrum Master | TS-SCI (active)
 
 ---
 
