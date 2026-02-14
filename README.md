@@ -6,9 +6,9 @@
 
 ### Showcase
 
-**[ResumePRO](https://github.com/TJ-Neary/ResumePRO)** — AI-driven career search ecosystem that builds genuine contextual understanding of professional experience through conversational STAR interviews, then produces precisely targeted, ATS-optimized resumes using semantic matching and multi-framework job analysis. 2,534 tests across 14 role families. Python 3.12+ / Anthropic Claude / Sentence Transformers / Pydantic.
+**[ResumePRO](https://github.com/TJ-Neary/ResumePRO)** — AI-driven career search ecosystem that builds genuine contextual understanding of professional experience through conversational STAR interviews, then produces precisely targeted, ATS-optimized resumes using semantic matching and multi-framework job analysis. 2,572 tests across 14 role families. Python 3.12+ / Anthropic Claude / Sentence Transformers / Pydantic.
 
-**[HQ-Command-Center](https://github.com/TJ-Neary/HQ-Command-Center)** — AI-augmented project command center coordinating 11 software projects across two AI agents (Anthropic Claude + Google Gemini). Multi-agent orchestration, automated standards distribution, cross-project communication, drift detection, strategic advisory board, and security pipeline. Python 3.12+ / Jinja2 / YAML / Ollama.
+**[HQ-Command-Center](https://github.com/TJ-Neary/HQ-Command-Center)** — AI-augmented project command center coordinating 13 software projects across four AI agents from three competing platforms (Anthropic Claude, OpenAI Codex, Google Gemini). Multi-agent orchestration, automated standards distribution, cross-project communication, drift detection, strategic advisory board, and security pipeline. Python 3.12+ / Jinja2 / YAML / Ollama.
 
 **[TommyTalker-Pro](https://github.com/TJ-Neary/TommyTalker-Pro)** — Enhanced voice-to-text for macOS extending the open-source TommyTalker with multi-mode AI processing (Claude/GPT/Groq), transcription history, speaker diarization, auto-activation rules, and a 5-panel sidebar dashboard. 356 tests across 9 development phases. Python 3.12+ / PyQt6 / mlx-whisper / Anthropic SDK.
 
@@ -18,7 +18,7 @@
 
 **[CoreRag](https://github.com/TJ-Neary/CoreRag)** — Local-first knowledge engine with semantic search, GraphRAG, and Claude Desktop integration via MCP. Hybrid search (vector + BM25), cross-encoder reranking, multi-format document ingestion, and three-layer PII detection. 392 tests. Python 3.12+ / LanceDB / FastAPI / Sentence Transformers.
 
-**[AI_Eval](https://github.com/TJ-Neary/AI_Eval)** — LLM evaluation framework with hardware-aware benchmarking on Apple Silicon (M4 Max). Actionable model selection based on real-world performance across code generation, document analysis, and structured output. Supports local inference (Ollama) and cloud APIs. 525 tests. Python 3.12+ / MLX / Ollama.
+**[AI_Eval](https://github.com/TJ-Neary/AI_Eval)** — LLM evaluation framework with hardware-aware benchmarking on Apple Silicon (M4 Max). Actionable model selection based on real-world performance across code generation, document analysis, and structured output. Supports local inference (Ollama) and cloud APIs. 203 tests. Python 3.12+ / MLX / Ollama.
 
 **[TommyTalker](https://github.com/TJ-Neary/TommyTalker)** — Privacy-first macOS voice intelligence suite. Push-to-talk with app-aware text formatting, session recording, and word replacement — no cloud dependencies. Optimized for Apple Silicon MPS acceleration. 95 tests. Python 3.12+ / Whisper / Metal.
 
