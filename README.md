@@ -6,6 +6,8 @@
 
 ### Showcase
 
+**[ResumePRO](https://github.com/TJ-Neary/ResumePRO)** — AI-driven career search ecosystem that builds genuine contextual understanding of professional experience through conversational STAR interviews, then produces precisely targeted, ATS-optimized resumes using semantic matching and multi-framework job analysis. 2,534 tests across 14 role families. Python 3.12+ / Anthropic Claude / Sentence Transformers / Pydantic.
+
 **[HQ-Command-Center](https://github.com/TJ-Neary/HQ-Command-Center)** — AI-augmented project command center coordinating 11 software projects across two AI agents (Anthropic Claude + Google Gemini). Multi-agent orchestration, automated standards distribution, cross-project communication, drift detection, strategic advisory board, and security pipeline. Python 3.12+ / Jinja2 / YAML / Ollama.
 
 ### Open Source
