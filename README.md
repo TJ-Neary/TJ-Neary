@@ -36,11 +36,14 @@
 
 | Domain | Technologies |
 |--------|-------------|
-| **AI/ML** | Ollama, MLX, Sentence Transformers, Whisper, LangChain |
-| **Data** | LanceDB, SQLite, ChromaDB, DuckDB, GraphRAG |
-| **Infrastructure** | FastAPI, MCP servers, GitHub Actions, pytest |
+| **LLM Providers** | Anthropic Claude, Google Gemini, Ollama, OpenAI GPT, MLX |
+| **AI/ML** | Sentence Transformers, PyTorch, Whisper (mlx-whisper), DeepEval, HuggingFace |
+| **Data** | LanceDB, SQLite, Qdrant, ChromaDB, SQLAlchemy, Pydantic, GraphRAG, Mem0 |
+| **Vision/OCR** | Tesseract, Surya, PaddleOCR, HuggingFace Vision, Playwright |
+| **Web & UI** | FastAPI, React 19, PyQt6, MCP servers (FastMCP), Jinja2, Typer |
+| **Infrastructure** | GitHub Actions, pytest, mutmut, asyncio, Tor |
 | **Platform** | macOS, Apple Silicon (M4 Max), Metal, MPS |
-| **Practices** | TDD (Red-Green-Refactor), type safety (mypy), security-first, C4 architecture |
+| **Practices** | TDD (Red-Green-Refactor), mutation testing, type safety (mypy), security-first, C4 architecture, multi-agent orchestration |
 
 ### Background
 
