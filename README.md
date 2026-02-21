@@ -14,6 +14,8 @@
 
 **[HQ-Command-Center](https://github.com/TJ-Neary/HQ-Command-Center)** — AI-augmented project command center coordinating 15 software projects across five AI agents from three competing platforms (Anthropic Claude, OpenAI Codex, Google Gemini). Multi-agent orchestration, automated standards distribution, cross-project communication, drift detection, strategic advisory board, and security pipeline. Python 3.12+ / Jinja2 / YAML / Ollama.
 
+**[AI-Eval-Pro](https://github.com/TJ-Neary/AI-Eval-Pro)** — Commercial LLM evaluation service benchmarking local and cloud models across text generation, embedding, and vision/OCR capabilities with hardware-aware recommendations. Capability dispatcher routing to three evaluation pipelines, 18 domain-specific scorers across 6 domains, model advisory pipeline with automated new-release detection, multi-project orchestration with SQLite queue and deduplication, and M4 Max optimization benchmarking. 799 tests, 72% coverage. Python 3.12+ / Ollama / Google Gemini / DeepEval / Sentence Transformers / Jinja2.
+
 **[TommyTalker-Pro](https://github.com/TJ-Neary/TommyTalker-Pro)** — Enhanced voice-to-text for macOS extending the open-source TommyTalker with multi-mode AI processing (Claude/GPT/Groq), transcription history, speaker diarization, auto-activation rules, and a 5-panel sidebar dashboard. 397 tests across 9 development phases. Python 3.12+ / PyQt6 / mlx-whisper / Anthropic SDK.
 
 **[VA-Assistant](https://github.com/TJ-Neary/VA-Assistant)** — AI-powered VA claims analysis that discovers claimable conditions from medical records, identifies rating errors in VA decisions, and generates evidence-backed appeal packages. 9-phase condition discovery pipeline, dual-persona adversarial analysis, hybrid RAG search, 1,324 tests. Python 3.12+ / FastAPI / Qdrant / React / Anthropic Claude.
@@ -26,7 +28,7 @@
 
 **[CoreRag](https://github.com/TJ-Neary/CoreRag)** — Local-first knowledge engine with semantic search, GraphRAG, and Claude Desktop integration via MCP. Hybrid search (vector + BM25), cross-encoder reranking, multi-format document ingestion, and three-layer PII detection. 392 tests. Python 3.12+ / LanceDB / FastAPI / Sentence Transformers.
 
-**[AI_Eval](https://github.com/TJ-Neary/AI_Eval)** — LLM evaluation framework with hardware-aware benchmarking on Apple Silicon (M4 Max). Actionable model selection based on real-world performance across code generation, document analysis, and structured output. Supports local inference (Ollama) and cloud APIs. 203 tests. Python 3.12+ / MLX / Ollama.
+**[AI_Eval](https://github.com/TJ-Neary/AI_Eval)** — LLM evaluation framework with hardware-aware benchmarking on Apple Silicon (M4 Max). Actionable model selection based on real-world performance across code generation, document analysis, and structured output. Supports local inference (Ollama) and cloud APIs. Extended commercially by [AI-Eval-Pro](https://github.com/TJ-Neary/AI-Eval-Pro). 203 tests. Python 3.12+ / MLX / Ollama.
 
 **[TommyTalker](https://github.com/TJ-Neary/TommyTalker)** — Privacy-first macOS voice intelligence suite. Push-to-talk with app-aware text formatting, session recording, and word replacement — no cloud dependencies. Optimized for Apple Silicon MPS acceleration. 95 tests. Python 3.12+ / Whisper / Metal.
 
