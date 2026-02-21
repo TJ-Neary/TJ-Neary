@@ -18,6 +18,8 @@
 
 **[Top-Crawler](https://github.com/TJ-Neary/Top-Crawler)** — Undetectable AI-powered web crawler that defeats modern anti-bot systems across five detection layers (TLS, HTTP/2, fingerprint, behavioral, network). 4-level Invisibility Hierarchy, real-time AI monitoring with adaptive evasion, full-spectrum privacy chain (VPN → Tor → Proxy → DoH), and streaming media pipeline. 147 configuration parameters across 13 development phases. Python 3.14+ / Async Concurrent / Headless Browser / Local LLM / Tor.
 
+**[WhoWho](https://github.com/TJ-Neary/WhoWho)** — Multi-interface personal CRM accessible through CLI, REST API, and Claude Desktop MCP tools. Three-interface convergence on a shared service layer with name-resolution pipeline, interaction logging with automatic contact updates, follow-up surfacing, and an Apple ecosystem bridge for reminders and calendar. 25 tests, 11 REST endpoints, 5 MCP tools. Python 3.11+ / FastAPI / SQLAlchemy 2.0 / FastMCP / Typer.
+
 ### Open Source
 
 **[CoreRag](https://github.com/TJ-Neary/CoreRag)** — Local-first knowledge engine with semantic search, GraphRAG, and Claude Desktop integration via MCP. Hybrid search (vector + BM25), cross-encoder reranking, multi-format document ingestion, and three-layer PII detection. 392 tests. Python 3.12+ / LanceDB / FastAPI / Sentence Transformers.
