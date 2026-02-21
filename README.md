@@ -6,11 +6,11 @@
 
 ### Showcase
 
-**[ResumePRO](https://github.com/TJ-Neary/ResumePRO)** — AI-driven career search ecosystem that builds genuine contextual understanding of professional experience through conversational STAR interviews, then produces precisely targeted, ATS-optimized resumes using semantic matching and multi-framework job analysis. 2,572 tests across 14 role families. Python 3.12+ / Anthropic Claude / Sentence Transformers / Pydantic.
+**[ResumePRO](https://github.com/TJ-Neary/ResumePRO)** — AI-driven career search ecosystem that builds genuine contextual understanding of professional experience through conversational STAR interviews, then produces precisely targeted, ATS-optimized resumes using semantic matching and multi-framework job analysis. 2,656 tests across 16 role families. Python 3.12+ / Anthropic Claude / Sentence Transformers / Pydantic.
 
-**[HQ-Command-Center](https://github.com/TJ-Neary/HQ-Command-Center)** — AI-augmented project command center coordinating 13 software projects across four AI agents from three competing platforms (Anthropic Claude, OpenAI Codex, Google Gemini). Multi-agent orchestration, automated standards distribution, cross-project communication, drift detection, strategic advisory board, and security pipeline. Python 3.12+ / Jinja2 / YAML / Ollama.
+**[HQ-Command-Center](https://github.com/TJ-Neary/HQ-Command-Center)** — AI-augmented project command center coordinating 15 software projects across five AI agents from three competing platforms (Anthropic Claude, OpenAI Codex, Google Gemini). Multi-agent orchestration, automated standards distribution, cross-project communication, drift detection, strategic advisory board, and security pipeline. Python 3.12+ / Jinja2 / YAML / Ollama.
 
-**[TommyTalker-Pro](https://github.com/TJ-Neary/TommyTalker-Pro)** — Enhanced voice-to-text for macOS extending the open-source TommyTalker with multi-mode AI processing (Claude/GPT/Groq), transcription history, speaker diarization, auto-activation rules, and a 5-panel sidebar dashboard. 356 tests across 9 development phases. Python 3.12+ / PyQt6 / mlx-whisper / Anthropic SDK.
+**[TommyTalker-Pro](https://github.com/TJ-Neary/TommyTalker-Pro)** — Enhanced voice-to-text for macOS extending the open-source TommyTalker with multi-mode AI processing (Claude/GPT/Groq), transcription history, speaker diarization, auto-activation rules, and a 5-panel sidebar dashboard. 397 tests across 9 development phases. Python 3.12+ / PyQt6 / mlx-whisper / Anthropic SDK.
 
 **[VA-Assistant](https://github.com/TJ-Neary/VA-Assistant)** — AI-powered VA claims analysis that discovers claimable conditions from medical records, identifies rating errors in VA decisions, and generates evidence-backed appeal packages. 9-phase condition discovery pipeline, dual-persona adversarial analysis, hybrid RAG search, 1,324 tests. Python 3.12+ / FastAPI / Qdrant / React / Anthropic Claude.
 
