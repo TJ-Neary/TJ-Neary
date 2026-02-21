@@ -1,6 +1,6 @@
 ## TJ Neary
 
-**AI transformation leader** bridging defense operations, people strategy, and hands-on engineering. I transform strategic ambiguity into working systems — specializing in local-first AI, RAG pipelines, and privacy-preserving architecture on Apple Silicon.
+**AI transformation leader** bridging defense, commerical, and personal project operations, people strategy, and hands-on engineering. I transform strategic ambiguity into working systems — specializing in local-first AI, RAG pipelines, and privacy-preserving architecture on Apple Silicon.
 
 ---
 
