@@ -8,6 +8,8 @@
 
 **[ResumePRO](https://github.com/TJ-Neary/ResumePRO)** — AI-driven career search ecosystem that builds genuine contextual understanding of professional experience through conversational STAR interviews, then produces precisely targeted, ATS-optimized resumes using semantic matching and multi-framework job analysis. 2,656 tests across 16 role families. Python 3.12+ / Anthropic Claude / Sentence Transformers / Pydantic.
 
+**[Centaur-Content-Engine](https://github.com/TJ-Neary/Centaur-Content-Engine)** — AI-powered content operations platform that automates research-to-draft pipelines while preserving authentic voice through multi-agent quality control and deterministic brand enforcement. Style fingerprinting from writing samples, Writer-Critic-Reviser iterative pipeline, analytics-driven strategy iteration, and a learning-to-content knowledge pipeline. 209 tests, 41 modules. Python 3.12+ / PyTorch / Anthropic Claude / Gemini / Ollama.
+
 **[HQ-Command-Center](https://github.com/TJ-Neary/HQ-Command-Center)** — AI-augmented project command center coordinating 15 software projects across five AI agents from three competing platforms (Anthropic Claude, OpenAI Codex, Google Gemini). Multi-agent orchestration, automated standards distribution, cross-project communication, drift detection, strategic advisory board, and security pipeline. Python 3.12+ / Jinja2 / YAML / Ollama.
 
 **[TommyTalker-Pro](https://github.com/TJ-Neary/TommyTalker-Pro)** — Enhanced voice-to-text for macOS extending the open-source TommyTalker with multi-mode AI processing (Claude/GPT/Groq), transcription history, speaker diarization, auto-activation rules, and a 5-panel sidebar dashboard. 397 tests across 9 development phases. Python 3.12+ / PyQt6 / mlx-whisper / Anthropic SDK.
