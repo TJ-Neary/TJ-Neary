@@ -20,7 +20,7 @@
 
 **[VA-Assistant](https://github.com/TJ-Neary/VA-Assistant)** — AI-powered VA claims analysis that discovers claimable conditions from medical records, identifies rating errors in VA decisions, and generates evidence-backed appeal packages. 9-phase condition discovery pipeline, dual-persona adversarial analysis, hybrid RAG search, 1,324 tests. Python 3.12+ / FastAPI / Qdrant / React / Anthropic Claude.
 
-**[Top-Crawler](https://github.com/TJ-Neary/Top-Crawler)** — Undetectable AI-powered web crawler that defeats modern anti-bot systems across five detection layers (TLS, HTTP/2, fingerprint, behavioral, network). 4-level Invisibility Hierarchy, real-time AI monitoring with adaptive evasion, full-spectrum privacy chain (VPN → Tor → Proxy → DoH), and streaming media pipeline. 147 configuration parameters across 13 development phases. Python 3.14+ / Async Concurrent / Headless Browser / Local LLM / Tor.
+**[Top-Crawler](https://github.com/TJ-Neary/Top-Crawler)** — LLM-powered privacy-first web crawler with real-time AI monitoring, automatic configuration optimization, and comprehensive multi-format export. Local LLM continuously monitors crawl health, auto-halts on critical issues, and learns optimal settings per domain. Circuit breaker patterns, resumable crawls, and streaming media pipeline (HLS/DASH). 147 configuration parameters across 13 development phases. Python 3.14+ / Async Concurrent / Playwright / Ollama / SQLite FTS5.
 
 **[WhoWho](https://github.com/TJ-Neary/WhoWho)** — Multi-interface personal CRM accessible through CLI, REST API, and Claude Desktop MCP tools. Three-interface convergence on a shared service layer with name-resolution pipeline, interaction logging with automatic contact updates, follow-up surfacing, and an Apple ecosystem bridge for reminders and calendar. 25 tests, 11 REST endpoints, 5 MCP tools. Python 3.11+ / FastAPI / SQLAlchemy 2.0 / FastMCP / Typer.
 
@@ -41,7 +41,7 @@
 | **Data** | LanceDB, SQLite, Qdrant, ChromaDB, SQLAlchemy, Pydantic, GraphRAG, Mem0 |
 | **Vision/OCR** | Tesseract, Surya, PaddleOCR, HuggingFace Vision, Playwright |
 | **Web & UI** | FastAPI, React 19, PyQt6, MCP servers (FastMCP), Jinja2, Typer |
-| **Infrastructure** | GitHub Actions, pytest, mutmut, asyncio, Tor |
+| **Infrastructure** | GitHub Actions, pytest, mutmut, asyncio |
 | **Platform** | macOS, Apple Silicon (M4 Max), Metal, MPS |
 | **Practices** | TDD (Red-Green-Refactor), mutation testing, type safety (mypy), security-first, C4 architecture, multi-agent orchestration |
 
